@@ -32,7 +32,7 @@
  ### Programming languages:
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,perline=14" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 ### Backend Development:
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,perline=14" />
   </a>
 </p>
 
